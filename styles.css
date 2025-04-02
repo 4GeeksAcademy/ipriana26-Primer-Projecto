@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+
+}
+
+.post {
+    background-color: white;
+    width: 40%;
+    margin: auto;
+
+}
+
+.post-header {
+    display: flex;
+    padding: 10px;
+}
+
+.post-header p {
+    margin-right: auto;
+    margin-top: 0;
+    margin-left: 5px;
+    font-size: medium;
+}
+
+.post-header fa-brands fa-html5 {
+    font-size: medium;
+}
+
+
+img {
+    width: 100%;
+
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.post-body p {
+    padding: 10px;
+}
